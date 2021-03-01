@@ -1,0 +1,4 @@
+baseURL = "https://jordialonso-jda.github.io/"
+languageCode = "en-us"
+title = "Blog de servidor de correu de Jordi Alonso"
+theme = "contrast-hugo"

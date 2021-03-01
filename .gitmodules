@@ -1,0 +1,4 @@
+[submodule "blog_correu/public"]
+	path = blog_correu/public
+	url = https://github.com/jordialonso-jda/jordialonso-jda.github.io.git
+	branch = main
